@@ -4,7 +4,7 @@
 
 ## Introducción
 
-Este proyecto implementa una visualización tridimensional interactiva del Sistema Solar, demostrando conceptos fundamentales de renderizado gráfico como el uso de texturas, la iluminación realista y las sombras. El código crea un entorno inmersivo donde el usuario puede explorar los planetas, sus lunas y experimentar diferentes perspectivas de observación. Este proyecto es una excelente introducción a técnicas avanzadas de visualización 3D.
+Este proyecto implementa una visualización tridimensional interactiva del Sistema Solar, demostrando conceptos fundamentales de renderizado gráfico como el uso de texturas, la iluminación realista y las sombras. Los cuerpos celestes introducidos son los planetas (por desgracia, Plutón se queda fuera) y sus respectivos satélites naturales. El código crea un entorno inmersivo donde el usuario puede explorar los planetas, sus lunas y experimentar diferentes perspectivas de observación. Este proyecto es una excelente introducción a técnicas avanzadas de visualización 3D.
 
 ---
 
@@ -170,3 +170,7 @@ El código captura eventos de teclado (flechas direccionales) para permitir nave
 ## Conclusión
 
 Este proyecto integra técnicas esenciales de gráficos tridimensionales en una aplicación interactiva y educativa. El resultado es un sistema accesible que demuestra cómo las texturas aportan realismo, cómo la iluminación y las sombras crean profundidad, y cómo la interacción enriquece la experiencia del usuario en entornos virtuales.
+
+## Demo
+A continuación una pequeña demostración de la aplicación en funcionamiento.
+<video src="demo.mp4" width="320" height="240" controls></video>
