@@ -173,4 +173,5 @@ Este proyecto integra técnicas esenciales de gráficos tridimensionales en una 
 
 ## Demo
 A continuación una pequeña demostración de la aplicación en funcionamiento.
-<video src="demo.mp4" width="320" height="240" controls></video>
+
+https://github.com/user-attachments/assets/0e17c657-6fe1-4006-a669-ce99c14ffbe6
