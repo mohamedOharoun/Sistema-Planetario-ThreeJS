@@ -2,6 +2,8 @@
 
 **Autor**: Mohamed O. Haroun Zarkik
 
+En el siguiente <a href="https://codesandbox.io/p/sandbox/956yl2" target="_blank">enlace</a> se puede ver el proyecto en CodeSandBox
+
 ## Introducción
 
 Este proyecto implementa una visualización tridimensional interactiva del Sistema Solar, demostrando conceptos fundamentales de renderizado gráfico como el uso de texturas, la iluminación realista y las sombras. Los cuerpos celestes introducidos son los planetas (por desgracia, Plutón se queda fuera) y sus respectivos satélites naturales. El código crea un entorno inmersivo donde el usuario puede explorar los planetas, sus lunas y experimentar diferentes perspectivas de observación. Este proyecto es una excelente introducción a técnicas avanzadas de visualización 3D.
